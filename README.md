@@ -6,9 +6,8 @@
 
 ### Welcome to my codespace
 
- - 🔭 I'm currently working at **[Omega Energia](https://www.linkedin.com/company/omegaenergia/)**
+ - 🔭 I'm currently not working
  - 💙 In love with Javascript/TypeScript
- - 🎮 I like to play games 
- - 🛹 I like skateboard
- - 🎹🎸 I like to play bass and piano
- - 🐱 I have a cat named Denise
+ - 🎮 I like to play games
+ - 🎹🎸 I like to play bass
+ - 🐱 I have a cat
