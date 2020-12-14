@@ -6,7 +6,7 @@
 
 ### Welcome to my codespace
 
- - 🔭 I'm currently working at @polycade
+ - 🔭 I'm currently working at [Polycade](https://polycade.com/)
  - 💙 In love with Javascript/TypeScript
  - 🎮 I like to play games
  - 🎹🎸 I like to play bass
