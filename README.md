@@ -2,7 +2,7 @@
 
 I work as a **Software Developer** at [Polycade](https://polycade.com/).
 
-Learning **Game Development** with **C++** and **Rust**
+Learning **Game Development** with **C++**
 
 
 ## 📫 How to reach me:
