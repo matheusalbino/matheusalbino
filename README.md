@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I work as a **Software Developer** at [Polycade](https://polycade.com/).
+I work as a **Software Engineer** at [Polycade](https://polycade.com/).
 
 Learning **Game Development** with **C++**
 
