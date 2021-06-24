@@ -1,8 +1,4 @@
-# Hi there 👋
-
-I work as a **Software Engineer** at [Polycade](https://polycade.com/).
-
-Learning **Game Development** with **C++**
+# Hey there 👋
 
 
 ## 📫 How to reach me:
