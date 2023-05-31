@@ -3,7 +3,7 @@
 
 ## About
 - Software Developer, 10+ years experience
-- Currently working on <a href="https://globoplay.globo.com" target="_blank">Globoplay</a> for Smart TVs and TV Boxes.
+- Currently working on <a href="https://globoplay.globo.com" target="_blank">Globoplay</a> for Connected TVs (a.k.a. Smart TVs) and TV Boxes.
 - Passionate of programming
 - Brazilian
 
